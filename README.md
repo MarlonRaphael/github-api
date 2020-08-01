@@ -17,7 +17,7 @@ Requisitos para instalação do projeto:
 
 ## Comandos
 
-Para rodar o projeto, é necessário rodar os seguintes comandos
+Para rodar o projeto, é necessário rodar os seguintes comandos no diretório raiz do projeto
 
 ```
 cp .env.example .env
