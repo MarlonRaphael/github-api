@@ -23,7 +23,7 @@ Para rodar o projeto, é necessário rodar os seguintes comandos
 cp .env.example .env
 ```
 ```
-composer install
+composer update
 ```
 ```
 php artisan key:generate
